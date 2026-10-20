@@ -20,8 +20,8 @@ Reipedia の 項目 の 誤り を 読者 から 受け取ります。 Reipedia 
 
 ## ライセンス (Reipedia 本文)
 
-Reipedia 本文 (項目 の 説明文) は [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) で 公開 して います。
+本文（Reipedia が書いた説明文）は、特記のないかぎり [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) で公開しています。走る最小例のコードと、出典からの引用は対象外です。
 
 ## 運営
 
-運営: Rei-AIOS (藤本 伸樹)
+運営：Rei-AIOS（藤本 伸樹）
